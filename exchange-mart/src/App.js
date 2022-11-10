@@ -1,15 +1,15 @@
 
 import './App.css';
-import "./Props.css"
-import Home from "./Components/Home"
-import Header from "./Components/Header"
+// import Header from './Components/Header/Header';
+import Footer from './Components/Footer/Footer';
+
 
 
 function App() {
   return (
     <div>
-      <Header/>
-      <Home/>
+       {/* <Header/> */}
+       <Footer/>
     </div>
   );
 }
