@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# ⚛️ OLX clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Start your own website like Olx in minutes with help of Sijeesh Miziha's Olx-Clone React App. Olx-Clone is the potential classified advertisement website that categorizes objects in a user-friendly manner & displayed as an advertisement..,
+Classifieds can be posted that involve selling, buying, exchanging and we adding a new feture that organizing to meet people nearby your location. 
 
-## Available Scripts
+- 🙏 **Kindly Please Support Me**
+   - I can provide brand-free products and full technical support for 1 year along with 1-year free update support and moreover
+- 👁 **Well typed**
+  - Clean JavaScript code with good folder structure.,
+- 📄 **Well documented**
+  - I can provide full reference & installation documentation alongside detailed guides through my Youtube Channel Sijeesh Miziha feel free to subscribe 
+  - If You supporting me., then I can also create the full lecture video from the scratch..,you can learn React.js as well as Firebase 
+- 👅 **Requirements to fork this repo**
+   - Intermediate React Developer
+   - Basic Understanding of Firebase
 
-In the project directory, you can run:
+## 👇 How to sell products using olx-clone
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://user-images.githubusercontent.com/91063960/137454308-1ec2e004-7f3b-4bdb-aac1-3a57d114f154.mp4
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+ If you want to sell anything like cars, bikes, computers, gadgets, etc. then you can post an ad with complete details of the item. Olx Clone is a classifieds script that gives the best digital platform to sellers and buyers. It has made online shopping and selling of products easier and quicker. Using this product anyone can launch a robust classifieds website within minutes.
+  Olx-Clone is a reliable JavaScript-based classifieds script developed in React and Firebase with mobile responsive design.
+  
+## Sample images
+![Screenshot from 2021-10-29 10-01-37](https://user-images.githubusercontent.com/91063960/139376405-043d6cfd-93b3-4486-a07a-2ff3382846d8.png)
+![Screenshot from 2021-10-29 10-01-58](https://user-images.githubusercontent.com/91063960/139376440-1dcd424a-6979-4ec7-bfa0-9e9038ddcbd0.png)
+## 🦸 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Client:** React, Context, CSS
 
-### `npm run build`
+**Server:** Firebase
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  
+## 🏄 Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  1. Clone/Download the repo.
+  2. Run npm install.
+  3. Config the BackEnd FireBase Change the values in src/firebase/config.js to suit your firebase console project api key values.
+  4. Run npm start to spin the up the local dev server port 3000.(http://localhost:3000).
