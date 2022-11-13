@@ -233,28 +233,28 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p2} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.2,500</h2>
+            <p>JoyStick</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>south Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p3} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.8,500</h2>
+            <p>Fridge</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>East Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p4} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.20,00,000</h2>
+            <p>Audi</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -266,20 +266,20 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p5} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.1,500</h2>
+            <p>Jeans</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>New Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p6} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.999</h2>
+            <p>Carrom Board</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>north Delhi</p>
               <p> Today</p>
             </div>
           </div>
@@ -287,17 +287,17 @@ const Header = () => {
             {/* <a href="#"></a> */}
             <img src={p7} alt="" />
             <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <p>ear-buds</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>East Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p8} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.13,500</h2>
+            <p>Camara</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -309,18 +309,18 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p9} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.1,299</h2>
+            <p>Jacket</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>west Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p10} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.11,999</h2>
+            <p>Washing Machine</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -329,18 +329,18 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p11} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>RS.899</h2>
+            <p>Shoes</p>
             <div className="addres_data">
-              <p>Bandra East Delhi</p>
+              <p>North Delhi</p>
               <p> Today</p>
             </div>
           </div>
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p12} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.5,500</h2>
+            <p>Sofa</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -352,8 +352,8 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p13} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.9,13,500</h2>
+            <p>Car</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -362,8 +362,8 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p14} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.7,500</h2>
+            <p>Dinner Table 4 seater</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -372,8 +372,8 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p15} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.2,499</h2>
+            <p>titan watch</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>
@@ -382,8 +382,8 @@ const Header = () => {
           <div className="box">
             {/* <a href="#"></a> */}
             <img src={p16} alt="" />
-            <h2>Rs.3,500</h2>
-            <p>Mi-TvStick</p>
+            <h2>Rs.13,500</h2>
+            <p>dambals</p>
             <div className="addres_data">
               <p>Bandra East Delhi</p>
               <p> Today</p>

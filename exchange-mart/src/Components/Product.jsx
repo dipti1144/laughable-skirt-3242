@@ -22,8 +22,8 @@ const Product = () => {
       <Add />
 
      
-      <button  >
-            <Link  style={{textDecoration:"none"}} to="/" >Home</Link>
+      <button style={{marginTop:"30px",padding:"10px 20px",backgroundColor:"white" ,borderRadius:"5px"}}  >
+            <Link  style={{textDecoration:"none",color:"black"}} to="/" >Home</Link>
           </button>
       <div className="product_img">
         <div className="image_discription">
